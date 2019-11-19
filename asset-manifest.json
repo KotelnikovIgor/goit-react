@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/goit-react/hw-01/static/css/main.3e4a557c.chunk.css",
-    "main.js": "/goit-react/hw-01/static/js/main.9fc0a868.chunk.js",
-    "main.js.map": "/goit-react/hw-01/static/js/main.9fc0a868.chunk.js.map",
-    "runtime-main.js": "/goit-react/hw-01/static/js/runtime-main.7a40012f.js",
-    "runtime-main.js.map": "/goit-react/hw-01/static/js/runtime-main.7a40012f.js.map",
-    "static/js/2.5fafcb5c.chunk.js": "/goit-react/hw-01/static/js/2.5fafcb5c.chunk.js",
-    "static/js/2.5fafcb5c.chunk.js.map": "/goit-react/hw-01/static/js/2.5fafcb5c.chunk.js.map",
-    "index.html": "/goit-react/hw-01/index.html",
-    "precache-manifest.aff256f003bbb42e682d16af6fdd811a.js": "/goit-react/hw-01/precache-manifest.aff256f003bbb42e682d16af6fdd811a.js",
-    "service-worker.js": "/goit-react/hw-01/service-worker.js",
-    "static/css/main.3e4a557c.chunk.css.map": "/goit-react/hw-01/static/css/main.3e4a557c.chunk.css.map"
+    "main.css": "/goit-react/static/css/main.3e4a557c.chunk.css",
+    "main.js": "/goit-react/static/js/main.9fc0a868.chunk.js",
+    "main.js.map": "/goit-react/static/js/main.9fc0a868.chunk.js.map",
+    "runtime-main.js": "/goit-react/static/js/runtime-main.06505213.js",
+    "runtime-main.js.map": "/goit-react/static/js/runtime-main.06505213.js.map",
+    "static/js/2.5fafcb5c.chunk.js": "/goit-react/static/js/2.5fafcb5c.chunk.js",
+    "static/js/2.5fafcb5c.chunk.js.map": "/goit-react/static/js/2.5fafcb5c.chunk.js.map",
+    "index.html": "/goit-react/index.html",
+    "precache-manifest.51fad239fbcb9ae9387877cb452d808c.js": "/goit-react/precache-manifest.51fad239fbcb9ae9387877cb452d808c.js",
+    "service-worker.js": "/goit-react/service-worker.js",
+    "static/css/main.3e4a557c.chunk.css.map": "/goit-react/static/css/main.3e4a557c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a40012f.js",
+    "static/js/runtime-main.06505213.js",
     "static/js/2.5fafcb5c.chunk.js",
     "static/css/main.3e4a557c.chunk.css",
     "static/js/main.9fc0a868.chunk.js"
