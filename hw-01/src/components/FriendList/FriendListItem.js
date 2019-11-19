@@ -19,7 +19,7 @@ const FriendListItem = ({ friendsData }) => (
   </li>
 );
 
-FriendListItem.defaultProps = {
+FriendListItem.propTypes = {
   friendsData: PropTypes.shape({
     isOnline: PropTypes.bool,
     avatar: PropTypes.string,
