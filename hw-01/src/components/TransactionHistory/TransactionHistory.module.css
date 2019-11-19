@@ -1,0 +1,24 @@
+.transaction__history {
+  margin: 0 auto;
+  text-align: center;
+  width: 400px;
+  border-collapse: collapse;
+}
+
+.transaction__history thead {
+  background-color: #20b8c5;
+  text-transform: uppercase;
+}
+
+.transaction__history tbody {
+  background-color: #e7ecf2;
+}
+
+.transaction__history td {
+  text-transform: uppercase;
+  height: 25px;
+}
+
+.transaction__history tr {
+  height: 40px;
+}

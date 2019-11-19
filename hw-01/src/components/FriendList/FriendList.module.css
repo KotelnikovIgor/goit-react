@@ -1,0 +1,49 @@
+.friend__list {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 400px;
+  padding-bottom: 50px;
+}
+
+.friends__item {
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  width: 100%;
+  height: 85px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.friends__item_none {
+  composes: friends__item;
+}
+
+.friends__item::before {
+  content: '';
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: green;
+  margin: 0 10px;
+}
+
+.friends__item_none::before {
+  background-color: red;
+}
+
+.friends__avatar {
+  border-radius: 15px;
+  margin-right: 10px;
+}
+
+.friends__name {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-weight: 600;
+}
